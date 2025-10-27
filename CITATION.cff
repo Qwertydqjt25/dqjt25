@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository in your work, please cite it."
+title: "Study Repository"
+authors:
+  - family-names: Imanov
+    given-names: Emir
+date-released: 2025-10-27
+version: "0.1.0"
